@@ -1,7 +1,7 @@
 <h1>MARP</h1>
 
 ## 💡 Introduction
-All Android artifacts shared for MARP project
+Auth feature from the MARP project
 
 ## 📜 License
 
